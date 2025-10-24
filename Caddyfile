@@ -1,0 +1,4 @@
+dkljajo.duckdns.org {
+    root * /usr/share/caddy
+    file_server
+}
